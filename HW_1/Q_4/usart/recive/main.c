@@ -1,7 +1,6 @@
 /*
  * recive.c
  *
- * Created: 20/07/1400 12:04:46 ق.ظ
  * Author : New Tech
  */ 
 
